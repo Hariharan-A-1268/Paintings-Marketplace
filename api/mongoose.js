@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://Hariharan_A:AVNH1268@cluster0.awnduiy.mongodb.net/AnimalsDB');
+mongoose.connect('mongodb+srv://Hariharan_A:PASSWORD@cluster0.awnduiy.mongodb.net/AnimalsDB');
 
 const productsSchema = new mongoose.Schema({
 	id: Number,
