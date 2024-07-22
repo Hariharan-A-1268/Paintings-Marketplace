@@ -12,7 +12,7 @@ This Angular project is a MEAN (MongoDB, Express.js, Angular, Node.js) stack pro
 ## Technologies Used
 
 - **Frontend**: Angular
-- **Backend**: Node.js, Express.js
+- **Backend**: Node JS, Express JS
 - **Database**: MongoDB
 
 <br>
